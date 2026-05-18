@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Analytics } from "@vercel/analytics/next"
 export default function App() {
   // Sample data for services - Updated with Desi flavor
   const services = [
@@ -12,7 +12,7 @@ export default function App() {
   // Placeholder images - The instructions below will tell you how to replace these
   const galleryImages = [
     "https://images.unsplash.com/photo-1603228221199-5f212f45f949?q=80&w=600&auto=format&fit=crop", // Teal Mandap
-    "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80", // Red Stage
+    "dec1.webp", // Red Stage
     "https://images.unsplash.com/photo-1549417229-aa67d3263c09?auto=format&fit=crop&w=600&q=80", // Puja
     "https://images.unsplash.com/photo-1617415497279-994c50257e33?q=80&w=600&auto=format&fit=crop", // Marigold
     "https://plus.unsplash.com/premium_photo-1682098254425-41dfa9296561?q=80&w=600&auto=format&fit=crop", // Entryway
