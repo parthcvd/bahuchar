@@ -62,7 +62,7 @@ export default function App() {
             Premium Event Styling & Decor
           </h1>
           <p className="text-sm md:text-base font-light mb-6 text-amber-50">
-            Crafting beautiful stages, mandaps, and unforgettable memories in Ahmedabad.
+            Crafting beautiful stages, mandaps,royal enteries and unforgettable memories in Ahmedabad.
           </p>
           <a href="#contact" className="inline-block bg-[#F79F1F] hover:bg-[#E08A12] text-stone-950 font-semibold px-8 py-3 rounded-full transition duration-300 shadow-md text-sm">
             Book Your Event
@@ -149,7 +149,7 @@ export default function App() {
                     Let's Plan Your <br/>Perfect Event
                   </h2>
                   <p className="text-amber-50/70 text-base mb-8 max-w-sm font-light leading-relaxed">
-                    Reach out to us for customized mandaps, grand reception stages, and beautiful festive decor. 
+                    Reach out to us for customized mandaps, grand reception stages, corporate events and beautiful festive decor. 
                   </p>
                   
                   <div className="flex flex-col sm:flex-row gap-4">
@@ -172,7 +172,7 @@ export default function App() {
                    <span className="text-[#F79F1F] text-lg">❁</span>
                    <h4 className="text-[#F79F1F] text-xs uppercase tracking-[0.15em] font-semibold">Location</h4>
                  </div>
-                 <p className="text-amber-50/90 font-serif text-lg leading-snug pl-6">Bapunagar, <br/>Ahmedabad, Gujarat</p>
+                 <p className="text-amber-50/90 font-serif text-lg leading-snug pl-6">Naroda, <br/>Ahmedabad, Gujarat 382330</p>
                </div>
                
                <div>
