@@ -29,9 +29,9 @@ export default function App() {
   const galleryImages = [
     "/img12.webp", 
     "/img6.webp",
-    "/img2.jpg", 
+    "/baby1.png", 
     "/img3.jpg", 
-    "/img12.webp",
+    "/img2.jpg",
     "/img9.jpg",
     "img13.webp",
     "img1.jpg"
