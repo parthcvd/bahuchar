@@ -215,14 +215,14 @@ export default function App() {
               <span className="text-xs font-medium text-amber-100/70 group-hover:text-[#F79F1F] transition-colors">Instagram</span>
             </a>
 
-            <a href="https://wa.me/919999999999" target="_blank" rel="noopener noreferrer" className="group flex flex-col items-center gap-2 hover:-translate-y-1 transition-transform duration-300">
+            <a href="https://wa.me/917777987717" target="_blank" rel="noopener noreferrer" className="group flex flex-col items-center gap-2 hover:-translate-y-1 transition-transform duration-300">
               <div className="w-12 h-12 rounded-full bg-[#361313] border border-[#F79F1F]/30 flex items-center justify-center group-hover:bg-[#25D366] group-hover:text-white transition-colors duration-300 shadow-lg">
                 <svg fill="currentColor" viewBox="0 0 24 24" className="w-6 h-6"><path fillRule="evenodd" d="M12.031 21c-1.618 0-3.197-.433-4.582-1.254l-5.076 1.332 1.358-4.95A9.878 9.878 0 012.392 12c0-5.46 4.444-9.904 9.904-9.904S22.2 6.54 22.2 12s-4.444 9.9-9.904 9.9c-.088 0-.176-.002-.265-.005zm0-18.005c-4.468 0-8.1 3.631-8.1 8.1 0 1.776.574 3.447 1.621 4.821l-.813 2.96 3.033-.795A8.04 8.04 0 0012.03 19.2c4.467 0 8.1-3.632 8.1-8.1 0-4.468-3.633-8.1-8.1-8.1zm4.49 11.233c-.246-.123-1.457-.719-1.683-.801-.225-.082-.389-.123-.553.123-.164.246-.635.801-.778.965-.143.164-.287.184-.533.061-2.128-1.066-3.328-1.921-4.225-3.486-.143-.246.072-.236.315-.722.082-.164.123-.287.041-.533-.041-.246-.553-1.334-.758-1.826-.2-.482-.403-.416-.553-.423h-.471c-.205 0-.533.082-.82.389-.287.307-1.086 1.066-1.086 2.597 0 1.53 1.111 3.011 1.266 3.216.154.205 2.193 3.348 5.313 4.697 1.956.843 2.766.757 3.277.635.594-.142 1.457-.595 1.662-1.168.205-.574.205-1.066.143-1.168-.061-.102-.225-.164-.471-.287z" clipRule="evenodd" /></svg>
               </div>
               <span className="text-xs font-medium text-amber-100/70 group-hover:text-[#25D366] transition-colors">WhatsApp</span>
             </a>
 
-            <a href="tel:+919999999999" className="group flex flex-col items-center gap-2 hover:-translate-y-1 transition-transform duration-300">
+            <a href="tel:+917777987717" className="group flex flex-col items-center gap-2 hover:-translate-y-1 transition-transform duration-300">
               <div className="w-12 h-12 rounded-full bg-[#361313] border border-[#F79F1F]/30 flex items-center justify-center group-hover:bg-[#F79F1F] group-hover:text-[#1A0909] transition-colors duration-300 shadow-lg">
                 <svg fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6"><path strokeLinecap="round" strokeLinejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-2.896-1.596-5.48-4.18-7.076-7.076l1.293-.97c.362-.271.527-.733.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z" /></svg>
               </div>
