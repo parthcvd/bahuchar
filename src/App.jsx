@@ -153,12 +153,12 @@ export default function App() {
                   </p>
                   
                   <div className="flex flex-col sm:flex-row gap-4">
-                    <a href="https://wa.me/919999999999?text=Hi%20Bahuchar%20Mandap%20Service!%20I%20want%20to%20inquire%20about%20decorations." target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#20bd5a] text-white px-6 py-3 rounded-full font-semibold transition-all duration-300 shadow-lg hover:-translate-y-1 text-sm md:text-base">
+                    <a href="https://wa.me/917777987717?text=Hi%20Bahuchar%20Mandap%20Service!%20I%20want%20to%20inquire%20about%20decorations." target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#20bd5a] text-white px-6 py-3 rounded-full font-semibold transition-all duration-300 shadow-lg hover:-translate-y-1 text-sm md:text-base">
                       <svg fill="currentColor" viewBox="0 0 24 24" className="w-5 h-5"><path fillRule="evenodd" d="M12.031 21c-1.618 0-3.197-.433-4.582-1.254l-5.076 1.332 1.358-4.95A9.878 9.878 0 012.392 12c0-5.46 4.444-9.904 9.904-9.904S22.2 6.54 22.2 12s-4.444 9.9-9.904 9.9c-.088 0-.176-.002-.265-.005zm0-18.005c-4.468 0-8.1 3.631-8.1 8.1 0 1.776.574 3.447 1.621 4.821l-.813 2.96 3.033-.795A8.04 8.04 0 0012.03 19.2c4.467 0 8.1-3.632 8.1-8.1 0-4.468-3.633-8.1-8.1-8.1z" clipRule="evenodd" /></svg>
                       Chat on WhatsApp
                     </a>
                     
-                    <a href="tel:+919999999999" className="flex items-center justify-center gap-2 bg-transparent border-2 border-[#F79F1F] text-[#F79F1F] hover:bg-[#F79F1F] hover:text-[#2A0E0E] px-6 py-3 rounded-full font-semibold transition-all duration-300 hover:-translate-y-1 text-sm md:text-base">
+                    <a href="tel:+917777987717" className="flex items-center justify-center gap-2 bg-transparent border-2 border-[#F79F1F] text-[#F79F1F] hover:bg-[#F79F1F] hover:text-[#2A0E0E] px-6 py-3 rounded-full font-semibold transition-all duration-300 hover:-translate-y-1 text-sm md:text-base">
                       <svg fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor" className="w-5 h-5"><path strokeLinecap="round" strokeLinejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-2.896-1.596-5.48-4.18-7.076-7.076l1.293-.97c.362-.271.527-.733.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z" /></svg>
                       Call Now
                     </a>
