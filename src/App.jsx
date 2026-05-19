@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   const [showFullGallery, setShowFullGallery] = useState(false);
@@ -236,7 +237,7 @@ export default function App() {
           </div>
         </div>
       </footer>
-
+<Analytics />
     </div>
   );
 }
